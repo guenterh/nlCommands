@@ -1,0 +1,206 @@
+'' {
+	'article-type': 'other',
+	'dtd-version': '1.0',
+	'lang': 'en',
+	'front' {
+		'journal-meta' {
+			'journal-id' {
+				'journal-id-type': 'publisher-id',
+				'value': 'aesa'
+			},
+			'journal-id' {
+				'journal-id-type': 'hwp',
+				'value': 'aesa'
+			},
+			'journal-title-group' {
+				'journal-title' {
+					'value': 'Annals of the Entomological Society of America'
+				}
+			},
+			'issn' {
+				'pub-type': 'ppub',
+				'value': '0013-8746'
+			},
+			'issn' {
+				'pub-type': 'epub',
+				'value': '1938-2901'
+			},
+			'publisher' {
+				'publisher-name' {
+					'value': 'Oxford University Press'
+				}
+			}
+		},
+		'article-meta' {
+			'article-id' {
+				'pub-id-type': 'doi',
+				'value': '10.1093/aesa/sau039'
+			},
+			'article-id' {
+				'pub-id-type': 'publisher-id',
+				'value': 'sau039'
+			},
+			'article-categories' {
+				'subj-group' {
+					'subject' {
+						'value': 'Cover / Standing Material'
+					}
+				}
+			},
+			'title-group' {
+				'article-title' {
+					'value': 'Editorial Board'
+				}
+			},
+			'pub-date' {
+				'pub-type': 'ppub',
+				'month' {
+					'value': '09'
+				},
+				'year' {
+					'value': '2015'
+				}
+			},
+			'pub-date' {
+				'pub-type': 'epub',
+				'day' {
+					'value': '09'
+				},
+				'month' {
+					'value': '09'
+				},
+				'year' {
+					'value': '2015'
+				}
+			},
+			'volume' {
+				'value': '108'
+			},
+			'issue' {
+				'value': '5'
+			},
+			'fpage' {
+				'value': 'i2'
+			},
+			'lpage' {
+				'value': 'i2'
+			},
+			'permissions' {
+				'copyright-statement' {
+					'value': '© The Authors 2015. Published by Oxford University Press on behalf of Entomological Society of America. All rights reserved. For Permissions, please email: journals.permissions@oup.com'
+				},
+				'copyright-year' {
+					'value': '2015'
+				}
+			},
+			'counts' {
+				'page-count' {
+					'count': '1'
+				}
+			}
+		}
+	}
+}
+'' {
+	'article-type': 'other',
+	'dtd-version': '1.1d1',
+	'lang': 'en',
+	'front' {
+		'journal-meta' {
+			'journal-id' {
+				'journal-id-type': 'publisher-id',
+				'value': 'aesa'
+			},
+			'journal-id' {
+				'journal-id-type': 'hwp',
+				'value': 'aesa'
+			},
+			'journal-title-group' {
+				'journal-title' {
+					'value': 'Annals of the Entomological Society of America'
+				}
+			},
+			'issn' {
+				'pub-type': 'ppub',
+				'value': '0013-8746'
+			},
+			'issn' {
+				'pub-type': 'epub',
+				'value': '1938-2901'
+			},
+			'publisher' {
+				'publisher-name' {
+					'value': 'Oxford University Press'
+				}
+			}
+		},
+		'article-meta' {
+			'article-id' {
+				'pub-id-type': 'doi',
+				'value': '10.1093/aesa/sau040'
+			},
+			'article-id' {
+				'pub-id-type': 'publisher-id',
+				'value': 'sau040'
+			},
+			'article-categories' {
+				'subj-group' {
+					'subject' {
+						'value': 'Cover / Standing Material'
+					}
+				}
+			},
+			'title-group' {
+				'article-title' {
+					'value': 'Information for Contributors'
+				}
+			},
+			'pub-date' {
+				'pub-type': 'ppub',
+				'month' {
+					'value': '09'
+				},
+				'year' {
+					'value': '2015'
+				}
+			},
+			'pub-date' {
+				'pub-type': 'epub',
+				'day' {
+					'value': '09'
+				},
+				'month' {
+					'value': '09'
+				},
+				'year' {
+					'value': '2015'
+				}
+			},
+			'volume' {
+				'value': '108'
+			},
+			'issue' {
+				'value': '5'
+			},
+			'fpage' {
+				'value': 'i3'
+			},
+			'lpage' {
+				'value': 'i3'
+			},
+			'permissions' {
+				'copyright-statement' {
+					'value': '© The Authors 2015. Published by Oxford University Press on behalf of Entomological Society of America. All rights reserved. For Permissions, please email: journals.permissions@oup.com'
+				},
+				'copyright-year' {
+					'value': '2015'
+				}
+			},
+			'counts' {
+				'page-count' {
+					'count': '1'
+				}
+			}
+		}
+	}
+}
